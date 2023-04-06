@@ -13,7 +13,9 @@ This section includes all the relevant analytical projects, with a brief descrip
 
 **Digital eCommerce Website and Landing Page Optimization**
 
-Summary: 
+Summary:
+
+Skills: 
 
 **Housing Prices Prediction**
 
