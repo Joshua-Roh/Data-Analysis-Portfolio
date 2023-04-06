@@ -10,4 +10,4 @@ This repository serves to showcase my data analysis skills through these project
 
 ## Portfolio Projects
 
-# Certificates
+## Certificates
