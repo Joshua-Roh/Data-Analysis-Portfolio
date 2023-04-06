@@ -21,8 +21,12 @@ Skills:
 
 Summary: 
 
+Skills: 
+
 **Spam/Ham Email Classifier**
 
 Summary: 
+
+Skills: 
 
 ## Certificates
