@@ -17,16 +17,22 @@ Summary:
 
 Skills: 
 
+Technology: 
+
 **Housing Prices Prediction**
 
 Summary: 
 
 Skills: 
 
+Technology: 
+
 **Spam/Ham Email Classifier**
 
 Summary: 
 
 Skills: 
+
+Technology: 
 
 ## Certificates
