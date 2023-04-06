@@ -9,5 +9,12 @@ This repository serves to showcase my data analysis skills through these project
 ## Table of Contents
 
 ## Portfolio Projects
+This section includes all the relevant analytical projects, with a brief description of their objectives and the tech stack used
+
+## Digital eCommerce Website and Landing Page Optimization
+
+## Housing Prices Prediction
+
+## Spam/Ham Email Classifier
 
 ## Certificates
