@@ -12,9 +12,12 @@ This repository serves to showcase my data analysis skills through these project
 This section includes all the relevant analytical projects, with a brief description of their objectives and the tech stack used
 
 **Digital eCommerce Website and Landing Page Optimization**
+Summary: 
 
 **Housing Prices Prediction**
+Summary: 
 
 **Spam/Ham Email Classifier**
+Summary: 
 
 ## Certificates
